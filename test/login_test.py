@@ -1,10 +1,10 @@
-'''
+"""
 @Author: 黄权权
 @Date: 2020-07-03 11:56:02
 @LastEditors: 黄权权
 @LastEditTime: 2020-07-10 17:05:42
-@Descripttion: 
-'''
+@Descripttion:
+"""
 # -*- encoding: utf-8 -*-
 # here put the import lib
 

@@ -312,3 +312,19 @@ class BasePage(object):
     def slidingScrollbar(self, target):
         js = "arguments[0].scrollIntoView();"
         self.driver.execute_script(js, target)
+
+    # 该方法用来确认元素是否存在，如果存在返回flag = true，否则返回false
+    def isElementExist(self, element):
+        flag = True
+        try:
+            ele = self.find_element(element)
+            logger.info("the elements %s is exist!" % ele)
+        except:
+            flag = False
+            logger.info("该元素没有被找到，不存在页面中")
+        return flag
+
+    # 获取元素标签内的内容
+    def get_text(self, selector):
+        el = self.find_element(selector)  # 获取元素位置信息
+        return el.text

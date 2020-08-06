@@ -1,0 +1,48 @@
+You had select Chrome browser!
+The test server url is http://192.168.1.173/crmViewX/login.html
+Starting Chorme browser!
+Open url http://192.168.1.173/crmViewX/login.html 
+Set implicitly wait 10
+Had find the element '  ' successfulby id via value:username
+Had type ' 15626268694 ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type ' 17288449102 ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+You had select Chrome browser!
+The test server url is http://192.168.1.173/crmViewX/login.html
+Starting Chorme browser!
+Open url http://192.168.1.173/crmViewX/login.html 
+Set implicitly wait 10
+Current page title is CRM管理系统 - 登录
+Had find the element '  ' successfulby id via value:username
+Had type '  ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type '  ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+Had find the element '  ' successfulby id via value:username
+Had type ' 17288449102 ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type ' 15626268694 ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+Had find the element '  ' successfulby id via value:username
+Had type ' 15626268694 ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type ' 17288449102 ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+Had find the element '  ' successfulby id via value:username
+Had type ' 17288449102 ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type '  ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+Had find the element '  ' successfulby id via value:username
+Had type ' 15521200433 ' in inputBox
+Had find the element '  ' successfulby id via value:password
+Had type ' 15521200433 ' in inputBox
+Had find the element ' 登录 ' successfulby xpath via value://*[@id="login"]/form/div[2]/div[2]/button
+The emement was click
+Current page title is CRM管理系统
